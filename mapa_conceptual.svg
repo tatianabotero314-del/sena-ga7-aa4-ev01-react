@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="468" height="520" preserveAspectRatio="xMinYMin meet" viewBox="0 0 468 520" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="468" height="520"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-520)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="148" y="461" width="172" height="53" rx="6" ry="6" style="stroke: rgb(21%,37%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(92%,95%,96%); fill-rule: evenodd;"/>
+			<text x="216.78" y="496" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,992) scale(1,-1)">REACT</text>
+			<text x="185.9805" y="479" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,958) scale(1,-1)">Biblioteca de JavaScript</text>
+			<text x="181.9755" y="466" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,932) scale(1,-1)">para interfaces de usuario</text>
+			<rect x="0" y="331" width="143" height="88" rx="6" ry="6" style="stroke: rgb(21%,37%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(92%,95%,96%); fill-rule: evenodd;"/>
+			<text x="32.33" y="401" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,802) scale(1,-1)">COMPONENTES</text>
+			<text x="32.9845" y="384" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,768) scale(1,-1)">Funciones o clases</text>
+			<text x="19.2325" y="371" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,742) scale(1,-1)">Reutilizan interfaz y lógica</text>
+			<text x="12.729999999999997" y="358" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,716) scale(1,-1)">Clases: render y ciclo de vida</text>
+			<text x="35.986" y="345" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,690) scale(1,-1)">Ej.: FilaCandidato</text>
+			<rect x="162" y="331" width="143" height="88" rx="6" ry="6" style="stroke: rgb(21%,37%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(92%,95%,96%); fill-rule: evenodd;"/>
+			<text x="224.05" y="401" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,802) scale(1,-1)">JSX</text>
+			<text x="192.2395" y="384" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,768) scale(1,-1)">Describe el marcado</text>
+			<text x="194.728" y="371" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,742) scale(1,-1)">Expresiones con { }</text>
+			<text x="188.2345" y="358" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,716) scale(1,-1)">className y etiquetas</text>
+			<text x="179.23" y="345" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,690) scale(1,-1)">Se transforma a JavaScript</text>
+			<rect x="324" y="331" width="143" height="88" rx="6" ry="6" style="stroke: rgb(21%,37%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(92%,95%,96%); fill-rule: evenodd;"/>
+			<text x="378.0" y="401" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,802) scale(1,-1)">DATOS</text>
+			<text x="343.723" y="384" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,768) scale(1,-1)">Props: entradas del padre</text>
+			<text x="354.48699999999997" y="371" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,742) scale(1,-1)">State: memoria local</text>
+			<text x="342.7195" y="358" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,716) scale(1,-1)">useState: actualiza estado</text>
+			<text x="340.2175" y="345" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,690) scale(1,-1)">Flujo de datos descendente</text>
+			<path d="M 190,461 L 71,419 Z" style="stroke: rgb(21%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="71 419, 68 425, 74 425" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(21%,37%,44%); fill-rule: evenodd;"/>
+			<text x="73.764" y="443" style="font-family: Helvetica-Oblique; font-size: 8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,886) scale(1,-1)">se organiza en</text>
+			<path d="M 234,461 L 234,419 Z" style="stroke: rgb(21%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="234 419, 231 425, 237 425" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(21%,37%,44%); fill-rule: evenodd;"/>
+			<text x="194.424" y="438" style="font-family: Helvetica-Oblique; font-size: 8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,876) scale(1,-1)">puede expresarse con</text>
+			<path d="M 278,461 L 395,419 Z" style="stroke: rgb(21%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="395 419, 392 425, 398 425" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(21%,37%,44%); fill-rule: evenodd;"/>
+			<text x="355.88" y="443" style="font-family: Helvetica-Oblique; font-size: 8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,886) scale(1,-1)">gestiona</text>
+			<rect x="0" y="185" width="143" height="87" rx="6" ry="6" style="stroke: rgb(21%,37%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(92%,95%,96%); fill-rule: evenodd;"/>
+			<text x="47.605000000000004" y="254" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,508) scale(1,-1)">EVENTOS</text>
+			<text x="33.483999999999995" y="237" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,474) scale(1,-1)">onClick, onChange</text>
+			<text x="25.730500000000006" y="224" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,448) scale(1,-1)">onSubmit, onKeyDown</text>
+			<text x="36.485499999999995" y="211" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,422) scale(1,-1)">onFocus y onBlur</text>
+			<text x="26.7295" y="198" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,396) scale(1,-1)">Ejecutan manejadores</text>
+			<rect x="162" y="185" width="143" height="87" rx="6" ry="6" style="stroke: rgb(21%,37%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(92%,95%,96%); fill-rule: evenodd;"/>
+			<text x="196.835" y="254" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,508) scale(1,-1)">RENDERIZADO</text>
+			<text x="198.9805" y="237" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,474) scale(1,-1)">Lee props y state</text>
+			<text x="193.738" y="224" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,448) scale(1,-1)">Condiciones y listas</text>
+			<text x="185.4805" y="211" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,422) scale(1,-1)">key identifica elementos</text>
+			<text x="177.9835" y="198" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,396) scale(1,-1)">Actualiza el DOM necesario</text>
+			<rect x="324" y="185" width="143" height="87" rx="6" ry="6" style="stroke: rgb(21%,37%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(92%,95%,96%); fill-rule: evenodd;"/>
+			<text x="344.375" y="254" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,508) scale(1,-1)">EFECTOS Y ESTILOS</text>
+			<text x="345.73" y="237" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,474) scale(1,-1)">useEffect: sincronización</text>
+			<text x="340.7305" y="224" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,448) scale(1,-1)">API REST: sistema externo</text>
+			<text x="357.9835" y="211" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,422) scale(1,-1)">CSS: presentación</text>
+			<text x="344.7355" y="198" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,396) scale(1,-1)">HTML semántico: acceso</text>
+			<path d="M 71,331 L 71,272 Z" style="stroke: rgb(21%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="71 272, 68 278, 74 278" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(21%,37%,44%); fill-rule: evenodd;"/>
+			<text x="48.763999999999996" y="300" style="font-family: Helvetica-Oblique; font-size: 8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,600) scale(1,-1)">responden a</text>
+			<path d="M 234,331 L 234,272 Z" style="stroke: rgb(21%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="234 272, 231 278, 237 278" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(21%,37%,44%); fill-rule: evenodd;"/>
+			<text x="198.876" y="300" style="font-family: Helvetica-Oblique; font-size: 8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,600) scale(1,-1)">describe la vista del</text>
+			<path d="M 395,331 L 395,272 Z" style="stroke: rgb(21%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="395 272, 392 278, 398 278" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(21%,37%,44%); fill-rule: evenodd;"/>
+			<text x="355.872" y="300" style="font-family: Helvetica-Oblique; font-size: 8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,600) scale(1,-1)">se complementan con</text>
+			<rect x="70" y="29" width="328" height="91" rx="6" ry="6" style="stroke: rgb(21%,37%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(92%,95%,96%); fill-rule: evenodd;"/>
+			<text x="135.375" y="102" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,204) scale(1,-1)">SISTEMA DE SELECCIÓN DE PERSONAL</text>
+			<text x="145.7145" y="85" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,170) scale(1,-1)">FormularioCandidato: captura y valida datos</text>
+			<text x="167.22449999999998" y="72" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,144) scale(1,-1)">BuscadorCandidatos: filtra la lista</text>
+			<text x="125.955" y="59" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,118) scale(1,-1)">ListaCandidatos y FilaCandidato: muestran resultados</text>
+			<text x="136.70999999999998" y="46" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,92) scale(1,-1)">EstadoPostulacion: permite actualizar el proceso</text>
+			<path d="M 71,185 L 160,120 Z" style="stroke: rgb(21%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="160 120, 157 126, 163 126" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(21%,37%,44%); fill-rule: evenodd;"/>
+			<text x="61.647999999999996" y="150" style="font-family: Helvetica-Oblique; font-size: 8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,300) scale(1,-1)">habilitan acciones en</text>
+			<path d="M 234,185 L 234,120 Z" style="stroke: rgb(21%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="234 120, 231 126, 237 126" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(21%,37%,44%); fill-rule: evenodd;"/>
+			<text x="219.552" y="151" style="font-family: Helvetica-Oblique; font-size: 8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,302) scale(1,-1)">muestra</text>
+			<path d="M 395,185 L 308,120 Z" style="stroke: rgb(21%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="308 120, 305 126, 311 126" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(21%,37%,44%); fill-rule: evenodd;"/>
+			<text x="330.756" y="150" style="font-family: Helvetica-Oblique; font-size: 8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,300) scale(1,-1)">conectan y presentan</text>
+		</g>
+	</g>
+</svg>
